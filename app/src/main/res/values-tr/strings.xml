@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Yellow Timer</string>
+    <string name="databaseName">YellowTimerDB</string>
+    <string name="addtask">Görev Ekle</string>
+    <string name="add">Ekle</string>
+    <string name="enter_the_task_name">Görev Adını Girin</string>
+    <string name="nav_open">nav_open</string>
+    <string name="nav_close">nav_close</string>
+    <string name="settings">Ayarlar</string>
+    <string name="pomodoro">Pomodoro</string>
+    <string name="drawerimage">drawerImage</string>
+    <string name="tasks">Görevler</string>
+    <string name="register">Kayıt ol</string>
+    <string name="enter_email">E-posta Girin</string>
+    <string name="enter_password">Parola Girin</string>
+    <string name="enter_password_again">Parolayı Tekrar Girin</string>
+    <string name="login">Giriş Yap</string>
+    <string name="passwordDontMatch">Parolalar Eşleşmiyor</string>
+    <string name="incompleteFields">Lütfen Tüm Alanları Doldurun</string>
+    <string name="userNotFound">Kullanıcı Bulunamadı</string>
+    <string name="dark_mode">Karanlık Mod</string>
+    <string name="pomodorotime_in_minutes">Pomorodo Zamanlama</string>
+    <string name="save">kaydet</string>
+    <string name="onPause">Zamanlayıcı Durduruldu</string>
+    <string name="about">Hakkında</string>
+    <string name="aboutText">Yellow Timer, kullanıcılarına zaman yönetimi konusunda yardım etmeyi amaçlayan bir uygulamadır. Uygulamada bulunan zamanlayıcı ile çalışmakta olduğunuz görev için belirli bir süre belirleyerek o süre boyunca üzerinde çalıştığınız göreve odaklanabilirsiniz. Uygulamada yer alan To-Do özelliği ile görevlerinizi ekleyebilir ve bu görevleri düzenli bir şekilde kayıt altında tutabilirsiniz. </string>
+    <string name="thanks">Teşekkürler</string>
+</resources>

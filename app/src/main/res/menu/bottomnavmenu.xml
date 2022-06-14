@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_pomodoro"
+        android:title="@string/pomodoro"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_av_timer_24"/>
+    <item
+        android:id="@+id/nav_tasks"
+        android:title="@string/tasks"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_add_task_24"/>
+</menu>
